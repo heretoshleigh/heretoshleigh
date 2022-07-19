@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for **a full-time position as a software engineer.** I'm also accepting **new freelance web dev clients.**
 
-- 🔭 I’m currently building **a full-stack web application that helps people with chronic, undiagnosed illnesses to document and communicate their stories.
+- 🔭 I’m currently building **a full-stack web application that helps people with chronic, undiagnosed illnesses to document and communicate their stories.**
 
 - 👩🏼‍💻 All of my projects are available at **https://www.ashleighcodes.com/**
 
