@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/101761079/179838759-d1096223-0564-4084-bbf7-015f0b86c4b6.png" width="100%">
 
-I'm a Denver-based software engineer, focused on full-stack web development, with more than a decade of analytical and management experience. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
+I'm a Denver-based software engineer, focused on full-stack web development, with more than a decade of technical and management experience. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
 
 Check out [my website](https://ashleighcodes.com) and [my LinkedIn profile](https://www.linkedin.com/in/ashleighhalverstadt/) for more information.
 
