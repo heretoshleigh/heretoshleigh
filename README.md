@@ -2,7 +2,7 @@
 
 I'm a Denver-based software engineer, focused on full-stack web development, with more than a decade of technical and management experience. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
 
-Check out [my website](https://ashleighcodes.com) and [my LinkedIn profile](https://www.linkedin.com/in/ashleighhalverstadt/) for more information.
+Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](https://www.linkedin.com/in/ashleighhalverstadt/) for more information.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
