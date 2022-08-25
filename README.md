@@ -49,7 +49,7 @@ Check out [my website](https://ashleighcodes.com) and [my LinkedIn profile](http
       </a>
       <br />
       <br />
-      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js</strong><br />I'm currently building a full-stack web app for folks with chronic, undiagnosed illnesses. Check back soon for updates.</p>
+      <p><strong>HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB</strong><br />I'm currently building a full-stack web app for folks with chronic, undiagnosed illnesses. Check back soon for updates.</p>
     </td>
   </tr>
 </table>
