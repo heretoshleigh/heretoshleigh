@@ -16,7 +16,7 @@ Check out [my website](https://ashleighcodes.com) and [my LinkedIn profile](http
        </a>
        <br />
        <br />
-       <p><strong>HTML5, CSS3, JavaScript</strong><br />This cleanly designed, responsive website brings visibility to a family-owned xeriscaping business.</p>
+       <p><strong>HTML5, CSS3, JavaScript</strong><br />This cleanly designed, responsive website brings visibility to a family-owned xeriscaping company.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Edible Forest Forays</h3>
