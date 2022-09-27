@@ -39,7 +39,7 @@ Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](ht
           <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
         </a>
       </p>
-      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB</strong><br />I'm currently building out this full-stack web app for folks with chronic, undiagnosed illnesses. Additional features and React.js integration to come.</p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB</strong><br />This full-stack web app helps people with chronic, undiagnosed illnesses capture and communicate their stories. Additional features and React.js integration to come.</p>
     <td width="50%" valign="top">
       <h3 align="center">Edible Forest Forays</h3>
       <br />
