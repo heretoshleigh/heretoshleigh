@@ -25,27 +25,26 @@ Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](ht
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Wildscapes</h3>
-       <br/>
-       <a target="_blank" href="https://wildscapes.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101761079/179854603-34913782-0840-4e2e-92dd-7a8cc22f417f.jpg" width="100%" alt="Xeriscaping website"/>
-       </a>
-       <p align="center">
-        <a href="https://github.com/heretoshleigh/wildscapes" target="_blank">
+      <td width="50%" valign="top">
+      <h3 align="center">MyChronicle</h3>
+      <br />
+      <a target="_blank" href="https://my-chronicle.onrender.com/">
+        <img src="https://user-images.githubusercontent.com/101761079/192605026-e6091120-ef9d-4097-97d5-871f7b51a144.jpg" width="100%" alt="Screenshot of MyChronicle web application"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/heretoshleigh/my-chronicle" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
         </a>  
-        <a href="https://wildscapes.netlify.app/" target="_blank">
+        <a href="https://my-chronicle.onrender.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
         </a>
-       </p>
-       <p><strong>HTML5, CSS3, JavaScript</strong><br />This cleanly designed, responsive website brings visibility to a family-owned xeriscaping company.</p>
-    </td>
+      </p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB</strong><br />I'm currently building out this full-stack web app for folks with chronic, undiagnosed illnesses. Additional features and React.js integration to come.</p>
     <td width="50%" valign="top">
       <h3 align="center">Edible Forest Forays</h3>
       <br />
       <a target="_blank" href="https://edibleforestforays.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101761079/179854747-7a2d0612-1bed-4efc-bf12-96c6eb4e0992.jpg" width="100%"  alt="Mushroom foraging website"/>
+        <img src="https://user-images.githubusercontent.com/101761079/179854747-7a2d0612-1bed-4efc-bf12-96c6eb4e0992.jpg" width="100%"  alt="Screenshot of mushroom foraging website"/>
       </a>
       <p align="center">
         <a href="https://github.com/heretoshleigh/edible-forest-forays" target="_blank">
@@ -60,11 +59,28 @@ Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](ht
   </tr>
   
   <tr>
+      </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Wildscapes</h3>
+       <br/>
+       <a target="_blank" href="https://wildscapes.netlify.app/">
+        <img src="https://user-images.githubusercontent.com/101761079/179854603-34913782-0840-4e2e-92dd-7a8cc22f417f.jpg" width="100%" alt="Screenshot of xeriscaping website"/>
+       </a>
+       <p align="center">
+        <a href="https://github.com/heretoshleigh/wildscapes" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+        </a>  
+        <a href="https://wildscapes.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
+        </a>
+       </p>
+       <p><strong>HTML5, CSS3, JavaScript</strong><br />This cleanly designed, responsive website brings visibility to a family-owned xeriscaping company.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Reese + Rover</h3>
       <br />
       <a target="_blank" href="https://reeseandrover.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101761079/179854834-9bc5e55c-dfef-47d6-951c-6c2496749d9b.jpg" width="100%" alt="Dog-walking website"/>
+        <img src="https://user-images.githubusercontent.com/101761079/179854834-9bc5e55c-dfef-47d6-951c-6c2496749d9b.jpg" width="100%" alt="Screenshot of dog-walking website"/>
       </a>
       <p align="center">
         <a href="https://github.com/heretoshleigh/reese-and-rover" target="_blank">
@@ -75,22 +91,6 @@ Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](ht
         </a>
       </p>
       <p><strong>HTML5, CSS3, JavaScript</strong><br />This simple, responsive website provides a landing page for a local dog-walking service.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">My Chronicle</h3>
-      <br />
-      <a target="_blank" href="#">
-        <img src="https://user-images.githubusercontent.com/101761079/179855859-c0647bdb-7d54-4e62-91eb-b1a09fc0ad0a.jpg" width="100%" alt="Coming soon placeholder image"/>
-      </a>
-      <p align="center">
-        <a href="https://github.com/heretoshleigh/my-chronicle" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
-        </a>  
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=Website Coming Soon&color=lightgrey&style=flat&logo=react&logoColor=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB</strong><br />I'm currently building a full-stack web app for folks with chronic, undiagnosed illnesses. Check back soon for updates.</p>
     </td>
   </tr>
 </table>
