@@ -112,7 +112,7 @@ Check out my [portfolio](https://ashleighcodes.com) and [LinkedIn profile](https
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br/>
-      <a href=# target="_blank">
+      <a href=https://www.ashleighcodes.com/ target="_blank">
         <img src="https://user-images.githubusercontent.com/101761079/199119951-ebfc2dc4-30a7-4573-a65c-5209e70c19a8.jpg" width="100%" alt="Screenshot of a website with the headline 'Every business is a tech business'"/>
       </a>
       <p align="center">
