@@ -19,56 +19,71 @@
 
 I'm a Denver-based software engineer, focused on full-stack web development, with more than a decade of technical and management experience. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
 
-Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](https://www.linkedin.com/in/ashleighhalverstadt/) for more information.
+Check out my [portfolio](https://ashleighcodes.com) and [LinkedIn profile](https://www.linkedin.com/in/ashleighhalverstadt/) for more information.
 
 <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
+
+<table bordercolor="#66b2b2">	
   <tr>
-      <td width="50%" valign="top">
-      <h3 align="center">MyChronicle</h3>
-      <br />
-      <a target="_blank" href="https://my-chronicle.onrender.com/">
-        <img src="https://user-images.githubusercontent.com/101761079/192605026-e6091120-ef9d-4097-97d5-871f7b51a144.jpg" width="100%" alt="Screenshot of MyChronicle web application"/>
+  	<td width="50%" valign="top">
+    <h3 align="center">MyChronicle</h3>
+    <br/>
+    <a href="https://my-chronicle.onrender.com/" target="_blank" >
+    	<img src="https://user-images.githubusercontent.com/101761079/192605026-e6091120-ef9d-4097-97d5-871f7b51a144.jpg" width="100%" alt="Screenshot of MyChronicle web application"/>
+    </a>
+    <p align="center">
+    	<a href="https://github.com/heretoshleigh/my-chronicle" target="_blank">
+      	<img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+      </a>  
+      <a href="https://my-chronicle.onrender.com/" target="_blank">
+      	<img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
+      </a>
+      </p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB</strong><br />This full-stack web app, with both Google and local authorization, helps people with chronic, undiagnosed illnesses capture and communicate their stories.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">My Book List</h3>
+      <br/>
+      <a href="https://my-book-list.onrender.com/" target="_blank" >
+        <img src="https://user-images.githubusercontent.com/101761079/199118452-f2b58d41-bc9e-4ed8-95c1-7b779e71628a.jpg" width="100%"  alt="Screenshot of website displaying a color-coded reading list"/>
       </a>
       <p align="center">
-        <a href="https://github.com/heretoshleigh/my-chronicle" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+      	<a href="https://github.com/nfolkman/My-Book-List" target="_blank">
+        	<img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
         </a>  
-        <a href="https://my-chronicle.onrender.com/" target="_blank">
+        <a href="https://my-book-list.onrender.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
         </a>
       </p>
-      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB</strong><br />This full-stack web app helps people with chronic, undiagnosed illnesses capture and communicate their stories. Additional features and React.js integration to come.</p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB</strong><br />This full-stack reading tracker app with local authorization allows users to create color-coded reading lists.</p>
+  	</td>
+  </tr>  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Edible Forest Forays</h3>
-      <br />
-      <a target="_blank" href="https://edibleforestforays.netlify.app/">
+      <br/>
+      <a href="https://edibleforestforays.netlify.app/" target="_blank" >
         <img src="https://user-images.githubusercontent.com/101761079/179854747-7a2d0612-1bed-4efc-bf12-96c6eb4e0992.jpg" width="100%"  alt="Screenshot of mushroom foraging website"/>
       </a>
       <p align="center">
-        <a href="https://github.com/heretoshleigh/edible-forest-forays" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+      	<a href="https://github.com/heretoshleigh/edible-forest-forays" target="_blank">
+        	<img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
         </a>  
         <a href="https://edibleforestforays.netlify.app/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
         </a>
       </p>
       <p><strong>HTML5, CSS3, JavaScript</strong><br />This dark and moody, responsive website was a blast to build for a mushroom foraging business.</p>
-    </td>
-  </tr>
-  
-  <tr>
-      </td>
+  	</td>
     <td width="50%" valign="top">
-      <h3 align="center">Wildscapes</h3>
-       <br/>
-       <a target="_blank" href="https://wildscapes.netlify.app/">
-        <img src="https://user-images.githubusercontent.com/101761079/179854603-34913782-0840-4e2e-92dd-7a8cc22f417f.jpg" width="100%" alt="Screenshot of xeriscaping website"/>
-       </a>
-       <p align="center">
-        <a href="https://github.com/heretoshleigh/wildscapes" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+    	<h3 align="center">Wildscapes</h3>
+      <br/>
+      <a href="https://wildscapes.netlify.app/" target="_blank">
+      	<img src="https://user-images.githubusercontent.com/101761079/179854603-34913782-0840-4e2e-92dd-7a8cc22f417f.jpg" width="100%" alt="Screenshot of xeriscaping website"/>
+      </a>
+      <p align="center">
+      	<a href="https://github.com/heretoshleigh/wildscapes" target="_blank">
+      		<img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
         </a>  
         <a href="https://wildscapes.netlify.app/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
@@ -76,10 +91,12 @@ Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](ht
        </p>
        <p><strong>HTML5, CSS3, JavaScript</strong><br />This cleanly designed, responsive website brings visibility to a family-owned xeriscaping company.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+	  <tr>
+		<td width="50%" valign="top">
       <h3 align="center">Reese + Rover</h3>
-      <br />
-      <a target="_blank" href="https://reeseandrover.netlify.app/">
+      <br/>
+      <a href="https://reeseandrover.netlify.app/" target="_blank">
         <img src="https://user-images.githubusercontent.com/101761079/179854834-9bc5e55c-dfef-47d6-951c-6c2496749d9b.jpg" width="100%" alt="Screenshot of dog-walking website"/>
       </a>
       <p align="center">
@@ -91,6 +108,22 @@ Check out [my portfolio](https://ashleighcodes.com) and [my LinkedIn profile](ht
         </a>
       </p>
       <p><strong>HTML5, CSS3, JavaScript</strong><br />This simple, responsive website provides a landing page for a local dog-walking service.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Other Projects</h3>
+      <br/>
+      <a href=# target="_blank">
+        <img src="https://user-images.githubusercontent.com/101761079/199117301-07f3de43-51f8-4106-84a0-faaec02f2449.jpg" width="100%" alt="Black bacground with the words 'Coming Soon' on it"/>
+      </a>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
+        </a>  
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, React, MongoDB</strong><br />Additional projects to come.</p>
     </td>
   </tr>
 </table>
