@@ -110,20 +110,20 @@ Check out my [portfolio](https://ashleighcodes.com) and [LinkedIn profile](https
       <p><strong>HTML5, CSS3, JavaScript</strong><br />This simple, responsive website provides a landing page for a local dog-walking service.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Other Projects</h3>
+      <h3 align="center">Portfolio</h3>
       <br/>
       <a href=# target="_blank">
-        <img src="https://user-images.githubusercontent.com/101761079/199117301-07f3de43-51f8-4106-84a0-faaec02f2449.jpg" width="100%" alt="Black bacground with the words 'Coming Soon' on it"/>
+        <img src="https://user-images.githubusercontent.com/101761079/199119951-ebfc2dc4-30a7-4573-a65c-5209e70c19a8.jpg" width="100%" alt="Screenshot of a website with the headline 'Every business is a tech business'"/>
       </a>
       <p align="center">
-        <a href="#" target="_blank">
+        <a href="https://github.com/heretoshleigh/portfolio" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
         </a>  
-        <a href="#" target="_blank">
+        <a href="https://www.ashleighcodes.com/" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
         </a>
       </p>
-      <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, React, MongoDB</strong><br />Additional projects to come.</p>
+      <p><strong>HTML5, CSS3, JavaScript</strong><br />This responsive website serves as my portfolio, as well as the homepage for my freelance web development business.</p>
     </td>
   </tr>
 </table>
