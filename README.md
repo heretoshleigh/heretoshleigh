@@ -44,16 +44,13 @@ Check out my [portfolio](https://ashleighcodes.com) and [LinkedIn profile](https
     <td width="50%" valign="top">
       <h3 align="center">My Book List</h3>
       <br/>
-      <a href="https://my-book-list.onrender.com/" target="_blank" >
+      <a href="https://github.com/nfolkman/My-Book-List" target="_blank" >
         <img src="https://user-images.githubusercontent.com/101761079/199118452-f2b58d41-bc9e-4ed8-95c1-7b779e71628a.jpg" width="100%"  alt="Screenshot of website displaying a color-coded reading list"/>
       </a>
       <p align="center">
       	<a href="https://github.com/nfolkman/My-Book-List" target="_blank">
         	<img src="https://img.shields.io/static/v1?label=|&message=Repo&color=9cf&style=flat&logo=github&logoColor=white"/>
         </a>  
-        <a href="https://my-book-list.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=react&logoColor=white"/>
-        </a>
       </p>
       <p><strong>HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB</strong><br />This full-stack reading tracker app with local authorization allows users to create color-coded reading lists.</p>
   	</td>
