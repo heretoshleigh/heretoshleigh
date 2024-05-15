@@ -70,7 +70,7 @@ Check out my [portfolio](https://ashleighcodes.com) and [LinkedIn profile](https
                     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=javascript&logoColor=white"/>
                 </a>
             </p>
-	      <p><strong>HTML, CSS, Bootstrap, JavaScript, jQuery, WordPress</strong><br />This D2C site was regularly refreshed and A/B tested to drive customer acquisition, retention, and engagement.</p>
+	      <p><strong>TypeScript, Next.js, CSS Modules, Contentful</strong><br />This D2C site was migrated from traditional to headless CMS, and regularly A/B tested to drive customer acquisition, retention, and engagement.</p>
 	    </td>
 	    <td width="33.33%" valign="top">
             <h3 align="center">MyChronicle</h3>
