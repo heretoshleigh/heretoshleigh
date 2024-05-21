@@ -85,7 +85,7 @@ Check out my [portfolio](https://ashleighcodes.com) and [LinkedIn profile](https
                 <img src="https://img.shields.io/static/v1?label=|&message=Website&color=lightgrey&style=flat&logo=javascript&logoColor=white"/>
             </a>
             </p>
-            <p><strong>HTML / Handlebars, CSS, Materialize, JavaScript, Node.js, Express.js, MongoDB</strong><br />This full-stack web app, with both Google and local authorization, helps people with chronic, undiagnosed illnesses capture and communicate their stories.</p>
+            <p><strong>HTML, Handlebars, CSS, Materialize, JavaScript, Node.js, Express.js, MongoDB</strong><br />This full-stack web app, with both Google and local authorization, helps people with chronic, undiagnosed illnesses capture and communicate their stories.</p>
 	    </td>
   </tr>  
   <tr>
