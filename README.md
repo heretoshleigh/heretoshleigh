@@ -18,7 +18,7 @@
   </a> -->
 </p>
 
-I'm a Denver-based software engineer with more than a decade of technical, organizational development, and leadership experience. I'm looking for my next full-time role, and accepting new freelance clients in the meantime.
+I'm a Denver-based software engineer with more than a decade of technical, organizational development, and leadership experience.
 
 Check out my [portfolio](https://ashleighcodes.com) and [LinkedIn profile](https://www.linkedin.com/in/ashleighhalverstadt/) for more information.
 
